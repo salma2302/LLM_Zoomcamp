@@ -164,3 +164,5 @@ cython_debug/
 #.idea/
 
 my_venv/
+Homeworks/Homework2/ollama_files/
+
